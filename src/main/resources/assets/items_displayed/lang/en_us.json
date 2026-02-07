@@ -1,0 +1,23 @@
+{
+  "item.items_displayed.item_group_name": "Items Displayed",
+  "item.items_displayed.item_display": "Item Display",
+  "item.items_displayed.white_display_pillow": "White Display Pillow",
+  "item.items_displayed.light_gray_display_pillow": "Light Gray Display Pillow",
+  "item.items_displayed.gray_display_pillow": "Gray Display Pillow",
+  "item.items_displayed.black_display_pillow": "Black Display Pillow",
+  "item.items_displayed.red_display_pillow": "Red Display Pillow",
+  "item.items_displayed.orange_display_pillow": "Orange Display Pillow",
+  "item.items_displayed.yellow_display_pillow": "Yellow Display Pillow",
+  "item.items_displayed.lime_display_pillow": "Lime Display Pillow",
+  "item.items_displayed.green_display_pillow": "Green Display Pillow",
+  "item.items_displayed.light_blue_display_pillow": "Light Blue Display Pillow",
+  "item.items_displayed.cyan_display_pillow": "Cyan Display Pillow",
+  "item.items_displayed.blue_display_pillow": "Blue Display Pillow",
+  "item.items_displayed.purple_display_pillow": "Purple Display Pillow",
+  "item.items_displayed.magenta_display_pillow": "Magenta Display Pillow",
+  "item.items_displayed.pink_display_pillow": "Pink Display Pillow",
+  "item.items_displayed.brown_display_pillow": "Brown Display Pillow",
+
+  "entity.items_displayed.item_display": "Item Display",
+  "entity.items_displayed.display_pillow": "Display Pillow"
+}

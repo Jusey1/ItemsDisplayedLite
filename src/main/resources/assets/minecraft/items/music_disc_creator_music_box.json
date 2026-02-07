@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:context_entity_type",
+    "cases": [
+      {
+        "when": "items_displayed:item_display",
+        "model": {
+          "type": "minecraft:model",
+          "model": "items_displayed:block/disc/minecraft/music_disc_creator_music_box"
+        }
+      },
+      {
+        "when": "items_displayed:display_pillow",
+        "model": {
+          "type": "minecraft:model",
+          "model": "items_displayed:block/disc/minecraft/music_disc_creator_music_box"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/music_disc_creator_music_box"
+    }
+  }
+}

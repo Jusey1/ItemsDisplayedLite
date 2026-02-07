@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:context_entity_type",
+    "cases": [
+      {
+        "when": "items_displayed:item_display",
+        "model": {
+          "type": "minecraft:model",
+          "model": "items_displayed:block/sherd/minecraft/danger_pottery_sherd"
+        }
+      },
+      {
+        "when": "items_displayed:display_pillow",
+        "model": {
+          "type": "minecraft:model",
+          "model": "items_displayed:block/sherd/minecraft/danger_pottery_sherd"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/danger_pottery_sherd"
+    }
+  }
+}
