@@ -1,0 +1,6 @@
+{
+	"parent": "items_displayed:block/abstract/abstract_sherd",
+	"textures": {
+		"1": "items_displayed:block/sherd/mourner_top"
+	}
+}

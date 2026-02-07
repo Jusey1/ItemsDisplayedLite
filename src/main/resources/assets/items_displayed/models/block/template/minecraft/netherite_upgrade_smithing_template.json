@@ -1,0 +1,7 @@
+{
+	"parent": "items_displayed:block/abstract/abstract_upgrade",
+	"textures": {
+		"0": "items_displayed:block/template/netherite_upgrade",
+		"particle": "items_displayed:block/template/netherite_upgrade"
+	}
+}

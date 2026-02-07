@@ -1,0 +1,7 @@
+{
+	"parent": "items_displayed:block/abstract/music_disc_abstract",
+	"textures": {
+		"0": "items_displayed:block/disc/music_disc_fusion",
+		"particle": "items_displayed:block/disc/music_disc_fusion"
+	}
+}
