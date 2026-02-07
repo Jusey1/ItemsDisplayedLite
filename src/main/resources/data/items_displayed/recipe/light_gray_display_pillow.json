@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "display_pillows",
+  "key": {
+    "S": "minecraft:stick",
+    "G": "minecraft:gold_nugget",
+    "W": "minecraft:light_gray_wool"
+  },
+  "pattern": [
+    " G ",
+    "SWS"
+  ],
+  "result": {
+    "id": "items_displayed:light_gray_display_pillow"
+  }
+}

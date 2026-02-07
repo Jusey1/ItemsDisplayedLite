@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:rib_armor_trim_smithing_template",
+    {
+      "id": "revotedwildfire:fireproof_upgrade_smithing_template",
+      "required": false
+    }
+  ]
+}

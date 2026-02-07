@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "#items_displayed:templates_calcite",
+    "#items_displayed:templates_copper",
+    "#items_displayed:templates_deepslate",
+    "#items_displayed:templates_gravel",
+    "#items_displayed:templates_netherbrick",
+    "#items_displayed:templates_netherrack",
+    "minecraft:coast_armor_trim_smithing_template",
+    "minecraft:flow_armor_trim_smithing_template",
+    "minecraft:sentry_armor_trim_smithing_template",
+    "minecraft:spire_armor_trim_smithing_template",
+    "minecraft:tide_armor_trim_smithing_template",
+    "minecraft:vex_armor_trim_smithing_template",
+    "minecraft:wild_armor_trim_smithing_template",
+    {
+      "id": "alexscaves:polarity_armor_trim_smithing_template",
+      "required": false
+    },
+    {
+      "id": "galosphere:preserved_template",
+      "required": false
+    },
+    {
+      "id": "kobolds:kobold_template",
+      "required": false
+    }
+  ]
+}

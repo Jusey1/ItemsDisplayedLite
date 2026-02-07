@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:dune_armor_trim_smithing_template",
+    "minecraft:eye_armor_trim_smithing_template"
+  ]
+}

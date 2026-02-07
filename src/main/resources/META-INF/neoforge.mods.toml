@@ -1,0 +1,81 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT License"
+
+[[mods]]
+modId="items_displayed"
+version="1.1.0"
+displayName="Items Displayed"
+displayURL="https://legacy.curseforge.com/minecraft/mc-mods/items-displayed"
+logoFile="logo.png"
+credits="Jusey1, Freedinner"
+authors="Jusey1, Freedinner"
+description="Allows displaying sherds, templates, and music discs."
+
+[[dependencies.items_displayed]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.11]"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.items_displayed]]
+    modId="alexscaves"
+    type="optional"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.items_displayed]]
+    modId="cloudstorage"
+    type="optional"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.items_displayed]]
+    modId="ecologics"
+    type="optional"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.items_displayed]]
+    modId="friendsandfoes"
+    type="optional"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.items_displayed]]
+    modId="galosphere"
+    type="optional"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.items_displayed]]
+    modId="kobolds"
+    type="optional"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.items_displayed]]
+    modId="revotedwildfire"
+    type="optional"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.items_displayed]]
+    modId="spawn"
+    type="optional"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.items_displayed]]
+    modId="supplementaries"
+    type="optional"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.items_displayed]]
+    modId="upgrade_aquatic"
+    type="optional"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"

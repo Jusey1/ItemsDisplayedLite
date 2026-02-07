@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#items_displayed:templates",
+    "#items_displayed:sherds",
+    "#items_displayed:music_discs"
+  ]
+}

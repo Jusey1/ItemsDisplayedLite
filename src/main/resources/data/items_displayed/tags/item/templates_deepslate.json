@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:silence_armor_trim_smithing_template",
+    "minecraft:snout_armor_trim_smithing_template",
+    "minecraft:ward_armor_trim_smithing_template"
+  ]
+}
