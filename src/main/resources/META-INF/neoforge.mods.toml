@@ -4,7 +4,7 @@ license="MIT License"
 
 [[mods]]
 modId="items_displayed"
-version="1.1.0"
+version="1.1.1"
 displayName="Items Displayed"
 displayURL="https://legacy.curseforge.com/minecraft/mc-mods/items-displayed"
 logoFile="logo.png"
@@ -75,6 +75,12 @@ description="Allows displaying sherds, templates, and music discs."
     side="BOTH"
 [[dependencies.items_displayed]]
     modId="upgrade_aquatic"
+    type="optional"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.items_displayed]]
+    modId="vista"
     type="optional"
     versionRange="[0,)"
     ordering="AFTER"
