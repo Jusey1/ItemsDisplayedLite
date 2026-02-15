@@ -65,6 +65,10 @@
     {
       "id": "upgrade_aquatic:music_disc_atlantis",
       "required": false
+    },
+    {
+      "id": "vista:music_disc_sojourn",
+      "required": false
     }
   ]
 }
