@@ -25,6 +25,10 @@
     {
       "id": "kobolds:kobold_template",
       "required": false
+    },
+    {
+      "id": "supplementaries:blast_armor_trim_smithing_template",
+      "required": false
     }
   ]
 }
